@@ -1,0 +1,16 @@
+.profile {
+    left: 41%;
+    transform: translateY(10px);
+}
+
+@media only screen and (min-width: 1024px) {
+    .profile {
+        left: 43%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .profile {
+        left: 46%;
+    }
+}

@@ -1,0 +1,11 @@
+.navItem {
+    list-style-type: none;
+}
+
+.jsCenter {
+    justify-content: center;
+}
+
+.navItem:hover {
+    border-bottom: 2px solid white;
+}
